@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/about-universe-react-app/static/css/main.9a7c168c.css",
+    "main.js": "/about-universe-react-app/static/js/main.7fc7e5b1.js",
+    "static/media/solar.mp4": "/about-universe-react-app/static/media/solar.c1716af346a5eeb2b7ab.mp4",
+    "static/media/eaeth.jpeg": "/about-universe-react-app/static/media/eaeth.c60cf4b6e21f68b727f2.jpeg",
+    "static/media/marscarousel.jpeg": "/about-universe-react-app/static/media/marscarousel.f93692f8855276f3a719.jpeg",
+    "index.html": "/about-universe-react-app/index.html",
+    "main.9a7c168c.css.map": "/about-universe-react-app/static/css/main.9a7c168c.css.map",
+    "main.7fc7e5b1.js.map": "/about-universe-react-app/static/js/main.7fc7e5b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7c168c.css",
+    "static/js/main.7fc7e5b1.js"
+  ]
+}
